@@ -18,14 +18,14 @@
   // Fréquence cardiaque moyenne (bpm) pour le calcul des battements
   const BPM_MOYEN = 70;
 
-  // Paires du memory — remplace emoji par image: 'images/photo.jpg'
+  // Paires du memory — photos personnelles dans Photos/
   const MEMORY_PAIRS = [
-    { id: 'heart', label: 'Cœur', emoji: '💓' },
-    { id: 'star', label: 'Étoile', emoji: '✨' },
-    { id: 'moon', label: 'Nuit', emoji: '🌙' },
-    { id: 'coffee', label: 'Café', emoji: '☕' },
-    { id: 'music', label: 'Musique', emoji: '🎵' },
-    { id: 'sunset', label: 'Coucher de soleil', emoji: '🌅' },
+    { id: 'photo1', label: 'Souvenir 1', image: 'Photos/photod1.jpg' },
+    { id: 'photo2', label: 'Souvenir 2', image: 'Photos/photod2.jpg' },
+    { id: 'photo3', label: 'Souvenir 3', image: 'Photos/photod3.jpg' },
+    { id: 'photo4', label: 'Souvenir 4', image: 'Photos/photod4.jpg' },
+    { id: 'photo5', label: 'Souvenir 5', image: 'Photos/photod5.jpg' },
+    { id: 'photo6', label: 'Souvenir 6', image: 'Photos/photod6.jpg' },
   ];
 
   // Citations du jour — à personnaliser
